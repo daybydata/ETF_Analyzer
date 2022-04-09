@@ -9,7 +9,7 @@ This is a a simple project to analyze the performance of a custom ETF using a da
 4. Run all cells in the notebook etf_analyzer.ipynb.
 5. From the terminal, run the following code:
 
-`voila` <relative-path-to-etf_analyzer.ipynb>
+`voila` <relative-path-to/>`etf_analyzer.ipynb`
 
 This will generate a simple web app with the visualizations and output generated in the Jupyter notebook. (See example below.)
 
